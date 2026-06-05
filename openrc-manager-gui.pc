@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+bindir=${exec_prefix}/bin
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: openrc-manager-gui
+Description: Modern Qt6 C++ Graphical User Interface for OpenRC init system
+Version: 1.0.0
+Requires: Qt6Widgets

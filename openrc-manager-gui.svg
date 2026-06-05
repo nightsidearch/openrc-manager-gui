@@ -1,0 +1,33 @@
+<svg xmlns="http://w3.org" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Fundo do Ícone: Círculo Moderno Escuro com Borda Azul -->
+  <circle cx="256" cy="256" r="240" fill="#1e222a" stroke="#1d99f3" stroke-width="12" />
+  
+  <!-- Ícone da Ferramenta (Engrenagem Mecânica de Fundo) -->
+  <g fill="#4d5668" opacity="0.85">
+    <path d="M256,160 A96,96 0 1,0 256,352 A96,96 0 1,0 256,160 Z" />
+    <path d="M256,110 L256,60 L286,60 L286,110 Z M256,402 L256,452 L226,452 L226,402 Z M110,256 L60,256 L60,226 L110,226 Z M402,256 L452,256 L452,286 L402,286 Z" />
+    <path d="M153,153 L118,118 L139,97 L174,132 Z M359,359 L394,394 L373,415 L338,380 Z M153,359 L118,394 L97,373 L132,338 Z M359,153 L394,118 L415,139 L380,174 Z" />
+  </g>
+  
+  <!-- Detalhe da Ferramenta Cruzada (Chave Inglesa Minimalista) de Suporte -->
+  <path d="M370,100 L410,140 L210,340 L170,300 Z" fill="#3daee9" opacity="0.9" />
+  <circle cx="390" cy="120" r="25" fill="#1e222a" />
+
+  <!-- Sombra das letras para dar profundidade e evitar cortes -->
+  <text x="259" y="303" 
+        text-anchor="middle" 
+        font-family="Sans-Serif, Arial, Helvetica" 
+        font-size="130" 
+        font-weight="900" 
+        fill="#0f1115" 
+        letter-spacing="2">RC</text>
+
+  <!-- Logotipo RC Perfeitamente Centralizado no Eixo Y (y=300) -->
+  <text x="256" y="300" 
+        text-anchor="middle" 
+        font-family="Sans-Serif, Arial, Helvetica" 
+        font-size="130" 
+        font-weight="900" 
+        fill="#ffffff" 
+        letter-spacing="2">RC</text>
+</svg>

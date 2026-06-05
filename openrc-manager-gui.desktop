@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenRC Manager GUI
+Comment=Manage OpenRC services using C++ and Qt6
+Exec=kdesu /usr/bin/openrc-manager-gui
+Icon=openrc-manager-gui
+Terminal=false
+Type=Application
+Categories=System;Settings;Qt;

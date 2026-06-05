@@ -2,6 +2,9 @@
 
 A modern graphical user interface (GUI) built with **C++** and **Qt6** to easily manage OpenRC init services and monitor boot logs in real-time on Artix Linux, Arch Linux, or any OpenRC-based distribution.
 
+Markdown![Tela principal](01.png)
+Markdown![Tela de log](02.png)
+
 ## Features
 
 - **Service Management**: Easily view, start, stop, refresh, and delete system services.
